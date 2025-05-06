@@ -1,1 +1,4 @@
 /go/waiig_code_1.3
+.idea
+.vscode
+/c++/build
